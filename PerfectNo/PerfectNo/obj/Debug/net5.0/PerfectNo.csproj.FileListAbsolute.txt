@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\bin\Debug\net5.0\PerfectNo.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\refint\PerfectNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\PerfectNo.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\PerfectNo\PerfectNo\obj\Debug\net5.0\ref\PerfectNo.dll

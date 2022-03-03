@@ -1,0 +1,5 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Vending\Vending\obj\Debug\net5.0\Vending.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Vending\Vending\obj\Debug\net5.0\Vending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Vending\Vending\obj\Debug\net5.0\Vending.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Vending\Vending\obj\Debug\net5.0\Vending.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Vending\Vending\obj\Debug\net5.0\Vending.csproj.CoreCompileInputs.cache

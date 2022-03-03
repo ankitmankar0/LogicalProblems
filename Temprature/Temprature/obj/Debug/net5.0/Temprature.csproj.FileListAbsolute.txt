@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\bin\Debug\net5.0\Temprature.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\refint\Temprature.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\Temprature.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Temprature\Temprature\obj\Debug\net5.0\ref\Temprature.dll

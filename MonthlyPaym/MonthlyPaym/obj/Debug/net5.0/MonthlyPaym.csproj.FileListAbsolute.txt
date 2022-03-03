@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\bin\Debug\net5.0\MonthlyPaym.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\refint\MonthlyPaym.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\MonthlyPaym.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\MonthlyPaym\MonthlyPaym\obj\Debug\net5.0\ref\MonthlyPaym.dll

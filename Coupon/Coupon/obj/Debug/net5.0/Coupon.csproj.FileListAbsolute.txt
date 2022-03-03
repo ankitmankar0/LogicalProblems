@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\bin\Debug\net5.0\Coupon.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\refint\Coupon.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\Coupon.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Coupon\Coupon\obj\Debug\net5.0\ref\Coupon.dll

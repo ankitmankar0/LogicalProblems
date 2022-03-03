@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\bin\Debug\net5.0\Binary2.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\refint\Binary2.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\Binary2.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Binary2\Binary2\obj\Debug\net5.0\ref\Binary2.dll

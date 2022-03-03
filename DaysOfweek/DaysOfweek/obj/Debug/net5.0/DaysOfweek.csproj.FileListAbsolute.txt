@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\bin\Debug\net5.0\DaysOfweek.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\refint\DaysOfweek.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\DaysOfweek.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\DaysOfweek\DaysOfweek\obj\Debug\net5.0\ref\DaysOfweek.dll

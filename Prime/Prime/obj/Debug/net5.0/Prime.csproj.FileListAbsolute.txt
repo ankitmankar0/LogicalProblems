@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\bin\Debug\net5.0\Prime.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\refint\Prime.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\Prime.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\Prime\Prime\obj\Debug\net5.0\ref\Prime.dll

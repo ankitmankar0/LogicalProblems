@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\bin\Debug\net5.0\sqrroot.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\refint\sqrroot.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\sqrroot.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\sqrroot\sqrroot\obj\Debug\net5.0\ref\sqrroot.dll

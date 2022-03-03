@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\bin\Debug\net5.0\ReverseNo.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\refint\ReverseNo.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ReverseNo.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Logical Problem1\ReverseNo\ReverseNo\obj\Debug\net5.0\ref\ReverseNo.dll
