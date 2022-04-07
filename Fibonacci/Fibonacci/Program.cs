@@ -14,10 +14,10 @@ namespace Fibonacci
             Console.Write(num1 + " " + num2 + " ");
             for (i = 2; i < n; i++)
             {
-                num3 = num1 + num2;
+                num3 = num1 + num2;     // 1 = 0 + 1
                 Console.Write(num3 + " ");
-                num1 = num2;
-                num2 = num3;
+                num1 = num2;    // num1 = 1
+                num2 = num3;   // num2 = 1
             }
         }
     }
