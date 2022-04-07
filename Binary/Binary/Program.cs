@@ -1,46 +1,47 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Diagnostics;
 using System.Threading;
-namespace Binary
+using System;
+
+namespace ToBinary
 {
-    class program
+    internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            DecimalToBinary.ReadInput();
-            Console.ReadLine();
+            Console.WriteLine("decimal to binary");
+            Console.WriteLine("enetr number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+            GetBinary(number);
 
         }
-    }
-    class DecimalToBinary
-    {
-        public static void ReadInput()
-        {
-            //Read input from user
-            Console.WriteLine("Enter decimal number");
-            int decimalNumber = Convert.ToInt32(Console.ReadLine());
-            DecimalToBinaryConversion(decimalNumber);
-        }
 
-        private static void DecimalToBinaryConversion(int decimalNumber)
+        public static void GetBinary(int number)
         {
-            //Local variable to iterate
-            int count;
-            //Store value of binary output
-            List<int> i = new List<int>();
-            for (count = 0; decimalNumber > 0; count++)
+            List<int> binaryList = new List<int>();
+            int power2 = 2;
+            while (number > power2)
             {
-                i.Add(decimalNumber % 2);
-                decimalNumber = decimalNumber / 2;
+                power2 *= 2;
             }
-            //Print BInary Representation
-            Console.Write("Binary Representation is =\t");
-            for (count = i.Count - 1; count > 0; count--)
+
+            while (power2 > 0)
             {
-                Console.Write(i[count]);
+                if (number >= power2)
+                {
+                    number -= power2;
+                    binaryList.Add(1);
+                }
+                else
+                {
+                    binaryList.Add(0);
+                }
+                power2 /= 2;
             }
+
+            Console.WriteLine(string.Join(" ", binaryList));
         }
     }
 }
