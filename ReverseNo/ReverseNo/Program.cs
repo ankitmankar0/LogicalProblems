@@ -11,9 +11,9 @@ namespace ReverseNo
             int Reverse = 0;
             while (Number > 0)
             {
-                int remainder = Number % 10;    //124 % 10  R = 4
+                int remainder = Number % 10;    
                 Reverse = (Reverse * 10) + remainder;   //  0=0*10+4
-                Number = Number / 10;  // 124/10 = 12
+                Number = Number / 10; 
             }
             Console.WriteLine("Reverse No. is {0}", Reverse);
             Console.ReadLine();
