@@ -9,7 +9,7 @@ namespace Day_6_PracticeProgram
         static void Main(string[] args)
         {
             //create new stopwatch
-            Stopwatch stopWatch = new Stopwatch();
+            Stopwatch stopWatch = new Stopwatch(); // Stopwatch class is defined in sys.Dignostics namespace
             //Begin Timimg
             stopWatch.Start();
             //do something
